@@ -1,1 +1,1 @@
-# Programowanie-wspolbiezne
+# Programowanie wspolbiezne

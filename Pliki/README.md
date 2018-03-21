@@ -11,5 +11,4 @@
 
 
 ### Pliki - programy
-1. Program ma sprawdzać na podanym przedziale ilosc liczb pierwszych
-Argumenty - poczatek przedzialu, koniec przedzialu, ilosc procesów na które ma się przedzial podzielić
+1. Program ma sprawdzać na podanym przedziale ilosc liczb pierwszych (argumenty - poczatek przedzialu, koniec przedzialu, ilosc procesów na które ma się przedzial podzielić)

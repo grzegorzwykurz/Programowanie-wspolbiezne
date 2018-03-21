@@ -1,10 +1,14 @@
-#          PROCESY
+#          PLIKI
 
 
-### Procesy - kartkówka obie grupy takie same
-1. Co robi i co zwraca pid = wait(&status).
-2. Co zwraca funkcja fork().
+### Pliki - kartkówka grupa 8:00
+1. Jakie informacje zawiera deskryptor procesów
+2. Szkielet funkcji, która zapisuje w pliku nowy.txt znak 'x', wykorzystując funkcje niskiego poziomu (open,write,close).
 
-### Procesy - programy
-1. Program (main1.c) tworzący proces macierzysty oraz potomny (z wykorzystaniem funkcji fork()).
-2. Program (main2.c) tworzący proces macierzysty oraz potomny (z pliku pot.c) (z wykorzystaniem funkcji execl).
+### Pliki - kartkówka grupa 15:00
+1. Wypisać atrybuty procesu
+2. Szkielet funkcji, która odczytuje z pliku nowy.txt 8 bajtów, wykorzystując funkcje niskiego poziomu (open,read,close).
+
+
+### Pliki - programy
+1. Program ma sprawdzać na podanym przedziale ilosc liczb pierwszych (argumenty - poczatek przedzialu, koniec przedzialu, ilosc procesów na które ma się przedzial podzielić)
